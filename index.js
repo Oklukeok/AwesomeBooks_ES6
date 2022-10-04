@@ -1,5 +1,5 @@
 import { Book, Store, userInterface } from './modules/classes.js';
-import dateAndTimeNow from './modules/function.js';
+import { dateAndTimeNow } from './modules/function.js';
 
 dateAndTimeNow();
 
