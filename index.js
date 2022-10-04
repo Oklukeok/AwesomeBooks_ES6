@@ -1,5 +1,5 @@
 import {Book, Store, userInterface} from './modules/classes.js';
-const timeAndDate = document.querySelector('.currentDate');
+import  timeAndDate from './modules/variables.js';
 import {dateAndTimeNow} from './modules/function.js';
 dateAndTimeNow();
 
