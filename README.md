@@ -1,56 +1,42 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
-
-> Description the project.
+# Awesome books ES6
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- JavaScript
 
-## Live Demo (if available)
+## Live Demo 
 
-[Live Demo Link](https://livedemo.com)
+- https://oklukeok.github.io/lukeCapstoneModule1.github.io/
 
+- Me explaining the project: https://www.loom.com/share/1ecd7eb3c1954d6e934f53bf2ab28014
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+To check this project, please follow this steps:
 
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- On GitHub.com, navigate to the main page of the repository.
+- Above the list of files, click the green "Code" button.
+- Copy the URL for the repository.
+- Open Git Bash.
+- Change the current working directory to the location where you want the cloned directory.
+- Type git clone, and then paste the URL you copied earlier: $ git@github.com:Oklukeok/AwesomeBooks_ES6.git
+- Press Enter to create your local clone.
+- Open the folder with your integrated development environment (IDE).
+- You can check a live preview opening the HTML with a browser.
 
 ## Authors
 
-👤 **Author1**
+👤 Lucas Bermudez
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- GitHub: [@Oklukeok](https://github.com/Oklukeok)
+- Twitter: [@ok_Lukee](https://twitter.com/ok_Lukee)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 

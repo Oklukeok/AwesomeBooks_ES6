@@ -1,6 +1,6 @@
-import {Book, Store, userInterface} from './modules/classes.js';
-import  timeAndDate from './modules/variables.js';
-import {dateAndTimeNow} from './modules/function.js';
+import { Book, Store, userInterface } from './modules/classes.js';
+import dateAndTimeNow from './modules/function.js';
+
 dateAndTimeNow();
 
 // store class: storage

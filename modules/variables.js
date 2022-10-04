@@ -1,3 +1,3 @@
-timeAndDate = document.querySelector('#currentDate');
+const timeAndDate = document.querySelector('#currentDate');
 
 export default timeAndDate;
